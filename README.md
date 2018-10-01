@@ -1,4 +1,4 @@
-# AI Workshop
+# Sofia Pinta 4
 
 ## Requirements
 
